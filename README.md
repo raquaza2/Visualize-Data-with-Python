@@ -30,3 +30,6 @@ The `datasets` directory contains the historical daily and monthly OHLC stock pr
 - Market volatility varies significantly month to month.
 - Daily returns, though small individually, can accumulate into significant monthly performance.
 - There is a loose correlation between the price range and percentage return, with wider price ranges often (but not always) corresponding to more volatile returns. Understanding these relationships helps in better forecasting market movements and assessing risk over different time horizons.
+
+  ## Example Visualization:
+![Cumulative Daily Returns](CumulativeDailyReturn.png)
