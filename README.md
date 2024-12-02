@@ -7,7 +7,7 @@ This project focuses on using Python to explore and analyze the historical price
 - How do daily percentage returns accumulate into monthly percentage returns?
 - Is there a pattern in the correlation between the daily high-low price range and the daily percentage return?
 
-The project code and results are contained in the Jupyter Notebook `analyze-netflix-stock.ipynb`, with a summary of the conclusions below.
+The project code and results are contained in the Jupyter Notebook `analyze-NASDAQ-stock.ipynb`, with a summary of the conclusions below.
 
 Note that nothing in this project is intended as financial advice.
 
